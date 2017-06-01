@@ -1,0 +1,15 @@
+{
+  "name": "javascript-tdd",
+  "version": "1.0.0",
+  "description": "Javascript test driven development exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manny Colon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  }
+}
